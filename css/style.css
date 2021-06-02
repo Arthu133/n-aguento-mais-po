@@ -129,6 +129,6 @@
 
     @media screen and (min-width: 1200px){
         .form-control{
-        color: red; !important
+            text-align: right;
         }
     }
