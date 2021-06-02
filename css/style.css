@@ -128,7 +128,7 @@
     }
 
     @media screen and (min-width: 1200px){
-        input.margin-left-0.form-control.inp{
+        form{
             margin-right: 0px;
         }
     }
