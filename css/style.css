@@ -128,7 +128,7 @@
     }
 
     @media screen and (min-width: 1200px){
-        .form-control{
+        input.margin-left-0.form-control.inp{
             text-align: right;
         }
     }
